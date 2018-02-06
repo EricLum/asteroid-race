@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+  color: white
+}
+
+.meteor-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+}
+
+.meteor{
+  padding-left: 5px;
+  padding-right: 5px;
+}
